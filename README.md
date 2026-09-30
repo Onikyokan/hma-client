@@ -19,4 +19,6 @@ HMA Client is in early development and has not been released yet.
 
 ## Disclaimer
 
-HMA Client is an unofficial third-party application. It is not affiliated with, endorsed by, or associated with Mojang Studios or Microsoft.
+NOT AN OFFICIAL MINECRAFT PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH MOJANG OR MICROSOFT.
+
+HMA Client is an unofficial third-party application.
